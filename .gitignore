@@ -1,0 +1,11 @@
+# Environment Files
+*.venv
+
+# Python Cache
+**/__pycache__/
+
+# Mac Files
+.DS_Store
+
+# PyCharm
+.idea

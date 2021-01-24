@@ -1,2 +1,6 @@
-# code_samples
-Code Samples
+# Code Samples
+Sharing Is Caring <3
+
+[Optical Character Recognition](tesseract_ocr)
+----------
+- Tesseract OCR
