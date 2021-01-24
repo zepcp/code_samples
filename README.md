@@ -5,7 +5,7 @@ Sharing Is Caring <3
 ----------
 - Tesseract Optical Character Recognition
 
-[PyTorch](pytorch)
+[PyTorch](torch)
 ----------
 - PyTorch ML Framework
 
