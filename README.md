@@ -17,8 +17,10 @@ Sharing Is Caring <3
 
 [Tools](tools)
 ----------
+- SMTP Email
+- OpenSSL Encryption
+- GeoIP
 - Captcha
-- Mail
 
 [Tor](tor)
 ----------
