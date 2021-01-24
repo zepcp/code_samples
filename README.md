@@ -25,3 +25,7 @@ Sharing Is Caring <3
 [Tor](tor)
 ----------
 - Tor Browser
+
+[Ethereum](ethereum)
+----------
+- Web3
