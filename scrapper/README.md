@@ -8,13 +8,13 @@ Install requirements
 
 Usage
 ----------
+Spider Example
+
+    python -m scrapy_quotes
+
 Selenium Example
 
     python -m selenium_continente -c <category>
-
-Spider Example
-
-    python -m spider_quotes
 
 Documentation
 ----------
