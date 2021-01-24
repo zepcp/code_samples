@@ -1,9 +1,9 @@
 # Code Samples
 Sharing Is Caring <3
 
-[Optical Character Recognition](tesseract_ocr)
+[Tesseract](tesseract_ocr)
 ----------
-- Tesseract OCR
+- Tesseract Optical Character Recognition
 
 [PyTorch](pytorch)
 ----------
