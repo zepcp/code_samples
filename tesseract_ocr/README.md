@@ -6,7 +6,7 @@ Install Tesseract through [brew](https://formulae.brew.sh/formula/tesseract)
 
     brew install tesseract
 
-Install Python [Libraries](https://pypi.org/project/pytesseract/)
+Install Python [Libraries](https://pypi.org/)
 
     pip install -r requirements.txt
 

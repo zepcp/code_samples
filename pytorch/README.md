@@ -3,7 +3,7 @@ Web App with a pretrained Densenet 121 model for image classification
 
 Setup
 ----------
-Install requirements
+Install Python [Libraries](https://pypi.org/)
 
     pip install -r requirements.txt
 

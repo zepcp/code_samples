@@ -1,0 +1,3 @@
+fake-useragent==0.1.11
+stem==1.8.0
+geoip2==4.1.0

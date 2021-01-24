@@ -2,7 +2,7 @@
 
 Setup
 ----------
-Install requirements
+Install Python [Libraries](https://pypi.org/)
 
     pip install -r requirements.txt
 

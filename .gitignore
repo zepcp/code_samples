@@ -9,3 +9,6 @@
 
 # PyCharm
 .idea
+
+# GeoIP Databases
+**/GeoLite2-City.mmdb

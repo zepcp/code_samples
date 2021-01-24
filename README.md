@@ -14,3 +14,12 @@ Sharing Is Caring <3
 - Scrapy
 - Selenium
 - BeautifulSoup4
+
+[Tools](tools)
+----------
+- Captcha
+- Mail
+
+[Tor](tor)
+----------
+- Tor Browser
