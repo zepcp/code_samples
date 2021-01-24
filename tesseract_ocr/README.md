@@ -8,10 +8,10 @@ Install Tesseract through [brew](https://formulae.brew.sh/formula/tesseract)
 
 Install Python [Libraries](https://pypi.org/project/pytesseract/)
 
-    pip install -r requirements.txt
+    pip install -r tesseract_ocr/requirements.txt
 
 Run Locally
 ----------
 Call the OCR script
 
-     python reader.py -i <invoice_image>
+     python -m tesseract_ocr.reader -i <image_file>

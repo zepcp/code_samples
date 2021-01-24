@@ -1,4 +1,3 @@
-# python -m tesseract_ocr.reader -i <image_file>
 from argparse import ArgumentParser
 
 from pytesseract import image_to_string
