@@ -16,6 +16,12 @@ Selenium Example
 
     python -m selenium_continente -c <category>
 
+Spider Helper
+----------
+To obtain the XPath syntax use:
+- Chrome extension: [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl)
+- Offered by: Adam Sadovsky
+
 Documentation
 ----------
 [**BeautifulSoup4**](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
@@ -23,5 +29,3 @@ Documentation
 [**Selenium**](https://www.selenium.dev/selenium/docs/api/py/api.html)
 
 [**Scrapy**](https://docs.scrapy.org/en/latest/)
-
-[**Pandas**](https://pandas.pydata.org/pandas-docs/stable/)

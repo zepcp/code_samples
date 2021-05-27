@@ -21,6 +21,7 @@ Sharing Is Caring <3
 - OpenSSL Encryption
 - GeoIP
 - Captcha
+- Password Generator
 
 [Tor](tor)
 ----------
