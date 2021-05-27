@@ -25,7 +25,7 @@ def store_to_file(filename, info):
 class QuotesSpider(Spider):
     name = "quotes_spider"
     allowed_domains = ["quotes.toscrape.com"]
-    start_urls = ["http://quotes.toscrape.com/"]
+    start_urls = ["https://quotes.toscrape.com/"]
 
     def parse(self, response):
         quotes = response.xpath(
