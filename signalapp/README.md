@@ -21,10 +21,12 @@ Usage
 Share your **public key**, with it one may send you messages
 
     python -m app --key public.pem --message 'test msg' --file_out output.bin
+    openssl rsautl -encrypt -in <filename> -out output.bin -inkey public.pem -pubin
 
 Which can only be decrypted with your **private key**
 
     python -m app --key private.pem --file_in output.bin
+    openssl rsautl -decrypt -in output.bin -inkey private.pem
 
 Documentation
 ----------
