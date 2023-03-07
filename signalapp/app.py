@@ -1,7 +1,6 @@
 from argparse import ArgumentParser
 from dataclasses import dataclass
 from random import randbytes
-from typing import List
 
 from Crypto.PublicKey import RSA
 from Crypto.Random import get_random_bytes
