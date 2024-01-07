@@ -12,3 +12,6 @@
 
 # GeoIP Databases
 **/GeoLite2-City.mmdb
+
+# Google Earth
+google_earth/data
